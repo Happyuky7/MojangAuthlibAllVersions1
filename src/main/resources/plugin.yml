@@ -1,0 +1,12 @@
+name: Mojangauthliballversions
+version: '${project.version}'
+main: com.github.happyrogelio7.mojangauthliballversions.Mojangauthliballversions
+api-version: 1.18
+authors: [ HappyRogelio7 ]
+description: Mojang authlib all versions
+website: https://github.com/HappyRogelio7/Mojangauthliballversions1
+commands:
+  mojangauthliballversions:
+    aliases:
+      - mojangauthliballversions1
+    usage: /<command>
