@@ -3,7 +3,7 @@ Mojang Authlib All Versions (V1)
 
 Maven pom.xml
 
-https://github.com/HappyRogelio7/Mojangauthliballversions1/blob/master/pom.xml
+https://github.com/HappyRogelio7/MojangAuthlibAllVersions1/blob/master/pom.xml
 
 Here you can find the imported libraries in Maven Format
 

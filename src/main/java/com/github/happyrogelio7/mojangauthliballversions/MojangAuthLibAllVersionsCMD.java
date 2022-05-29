@@ -21,7 +21,7 @@ public class MojangAuthLibAllVersionsCMD implements CommandExecutor {
         sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
         sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Author: &fHappyRogelio7"));
         sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&a version: &f1.0.0-SNAPSHOT"));
-        sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Github: &fhttps://github.com/HappyRogelio7/Mojangauthliballversions1"));
+        sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Github: &fhttps://github.com/HappyRogelio7/MojangAuthlibAllVersions1"));
         sender.sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
 
         return true;
