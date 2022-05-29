@@ -41,7 +41,8 @@ Here you can find the imported libraries in Maven Format
 
         <!--Important Note: This is from 1.19.pre3 for some reason maven doesn't import it from the
             link download it from the link and import it manually:
-            https://libraries.minecraft.net/com/mojang/authlib/3.5.41/authlib-3.5.41.jar-->
+            https://libraries.minecraft.net/com/mojang/authlib/3.5.41/authlib-3.5.41.jar
+        -->
         <!--dependency>
             <groupId>com.mojang</groupId>
             <artifactId>authlib</artifactId>
