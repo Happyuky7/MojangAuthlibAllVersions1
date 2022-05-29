@@ -178,6 +178,8 @@ In a future update it will be like importing the Mojang AuthLib in Gradle
 ![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.png)
 ![Azul Java logo](https://www.azul.com/wp-content/themes/azul/dist/img/logo.svg)
 
+[nathaantfm.alwaysdata.net](http://nathaantfm.alwaysdata.net/explorer/?package=com.mojang&name=authlib)List where the available versions of the AuthLib are found, on a graphical website.
+
 [IntelliJ IDEA](https://www.jetbrains.com/idea/), Code editor for Java and other programming languages and programs.
 
 [Azul Java](https://www.azul.com/) The world’s largest commercial provider of OpenJDK
