@@ -7,7 +7,7 @@ https://github.com/HappyRogelio7/Mojangauthliballversions1/blob/master/pom.xml
 
 Here you can find the imported libraries in Maven Format
 
-In a future update it will be like importing the Mojang AuthLib in Gradel
+In a future update it will be like importing the Mojang AuthLib in Gradle
 
 
 ---
