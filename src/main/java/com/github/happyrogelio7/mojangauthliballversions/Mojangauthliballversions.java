@@ -13,7 +13,7 @@ public final class Mojangauthliballversions extends JavaPlugin {
 
     // Licence:
     // The use of this Repository is Free but its Sale or distribution is not allowed as you created it.
-    
+
     @Override
     public void onEnable() {
         // Plugin startup logic
