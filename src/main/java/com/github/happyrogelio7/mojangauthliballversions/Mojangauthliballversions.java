@@ -22,7 +22,7 @@ public final class Mojangauthliballversions extends JavaPlugin {
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a MojangAuthLibAllVersions &7| &aEnabled"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Author: &fHappyRogelio7"));
-        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a version: &f1.0.0-SNAPSHOT"));
+        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a version: &f1.0.1-SNAPSHOT"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Github: &fhttps://github.com/HappyRogelio7/MojangAuthlibAllVersions1"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
 
@@ -37,7 +37,7 @@ public final class Mojangauthliballversions extends JavaPlugin {
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a MojangAuthLibAllVersions &7| &cDisabled"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Author: &fHappyRogelio7"));
-        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a version: &f1.0.0-SNAPSHOT"));
+        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a version: &f1.0.1-SNAPSHOT"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&a Github: &fhttps://github.com/HappyRogelio7/MojangAuthlibAllVersions1"));
         Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&',"&r "));
 
