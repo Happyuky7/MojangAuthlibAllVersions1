@@ -1,6 +1,8 @@
 Mojang Authlib All Versions (V1)
 =========
 
+1.7.10 and more 1.19.4 or height
+
 Maven pom.xml
 
 https://github.com/HappyRogelio7/MojangAuthlibAllVersions1/blob/master/pom.xml
@@ -32,23 +34,23 @@ Here you can find the imported libraries in Maven Format
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.18.2-R0.1-SNAPSHOT</version>
+            <version>1.19.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <!-- Important Note:>
-            Here is the Mojang AuthLib from 1.19.pre3 to 1.8.9-1.7.10 (version 1.5.21, there is also version 1.7.10)
+            Here is the Mojang AuthLib from 1.19.4 to 1.8.9-1.7.10 (version 1.5.21, there is also version 1.7.10)
         <Important Note-->
 
-        <!--Important Note: This is from 1.19.pre3 for some reason maven doesn't import it from the
+        <!--Important Note: This is from 1.19.4 for some reason maven doesn't import it from the
             link download it from the link and import it manually:
-            https://libraries.minecraft.net/com/mojang/authlib/3.5.41/authlib-3.5.41.jar
+            https://libraries.minecraft.net/com/mojang/authlib/3.18.38/authlib-3.18.38.jar
         -->
-        <!--dependency>
+        <dependency>
             <groupId>com.mojang</groupId>
             <artifactId>authlib</artifactId>
-            <version>3.5.41</version>
+            <version>3.18.38</version>
             <scope>provided</scope>
-        </dependency-->
+        </dependency>
         <dependency>
             <groupId>com.mojang</groupId>
             <artifactId>authlib</artifactId>
