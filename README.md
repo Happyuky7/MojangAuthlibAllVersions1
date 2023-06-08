@@ -1,7 +1,7 @@
 Mojang Authlib All Versions (V1)
 =========
 
-1.7.10 and more 1.19.4 or height
+1.7.10 and more 1.20 or height
 
 Maven pom.xml
 
@@ -34,7 +34,7 @@ Here you can find the imported libraries in Maven Format
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.19.4-R0.1-SNAPSHOT</version>
+            <version>1.20-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <!-- Important Note:>
