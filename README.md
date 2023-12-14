@@ -1,11 +1,11 @@
 Mojang Authlib All Versions (V1)
 =========
 
-1.7.10 and more 1.20 or height
+1.7.10 and more 1.20.X or height
 
 Maven pom.xml
 
-https://github.com/HappyRogelio7/MojangAuthlibAllVersions1/blob/master/pom.xml
+https://github.com/Happyuky7/MojangAuthlibAllVersions1/blob/master/pom.xml
 
 Here you can find the imported libraries in Maven Format
 
@@ -38,7 +38,7 @@ Here you can find the imported libraries in Maven Format
             <scope>provided</scope>
         </dependency>
         <!-- Important Note:>
-            Here is the Mojang AuthLib from 1.19.4 to 1.8.9-1.7.10 (version 1.5.21, there is also version 1.7.10)
+            Here is the Mojang AuthLib from 1.20.X to 1.8.9-1.7.10 (version 1.5.21, there is also version 1.7.10)
         <Important Note-->
 
         <!--Important Note: This is from 1.19.4 for some reason maven doesn't import it from the
